@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo "test feat2"
+                echo "test feat2 trigger"
             }
         }
     }
